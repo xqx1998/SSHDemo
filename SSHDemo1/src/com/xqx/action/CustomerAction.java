@@ -12,7 +12,6 @@ public class CustomerAction extends ActionSupport {
 
     // 1.µΩÃÌº”“≥√Ê
     public String toAddPage(){
-
         return "toAddPage";
     }
 

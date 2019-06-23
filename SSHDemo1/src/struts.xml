@@ -10,10 +10,9 @@
 		</action>
 
 		<action name="customer_*" class="com.xqx.action.CustomerAction" method="{1}">
-
+            <result name="toAddPage">/jsp/customer/add.jsp</result>
 		</action>
 	</package>
-
 </struts>
 
 
